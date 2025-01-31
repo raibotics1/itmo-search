@@ -1,0 +1,96 @@
+2025-01-30 13:37:32 | INFO | Incoming request: GET http://localhost:8080/
+Request body: 
+2025-01-30 13:37:32 | INFO | Request completed: GET http://localhost:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.003s
+2025-01-30 13:37:32 | INFO | Incoming request: GET http://localhost:8080/favicon.ico
+Request body: 
+2025-01-30 13:37:32 | INFO | Request completed: GET http://localhost:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-30 15:54:31 | INFO | Incoming request: GET http://localhost:8080/
+Request body: 
+2025-01-30 15:54:31 | INFO | Request completed: GET http://localhost:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.003s
+2025-01-30 15:54:31 | INFO | Incoming request: GET http://localhost:8080/favicon.ico
+Request body: 
+2025-01-30 15:54:31 | INFO | Request completed: GET http://localhost:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-30 16:14:19 | INFO | Incoming request: GET http://localhost:8080/
+Request body: 
+2025-01-30 16:14:19 | INFO | Request completed: GET http://localhost:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-30 21:27:11 | INFO | Incoming request: GET http://0.0.0.0:8080/
+Request body: 
+2025-01-30 21:27:11 | INFO | Request completed: GET http://0.0.0.0:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.013s
+2025-01-30 21:27:11 | INFO | Incoming request: GET http://0.0.0.0:8080/favicon.ico
+Request body: 
+2025-01-30 21:27:11 | INFO | Request completed: GET http://0.0.0.0:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.001s
+2025-01-30 21:27:13 | INFO | Incoming request: GET http://0.0.0.0:8080/
+Request body: 
+2025-01-30 21:27:14 | INFO | Request completed: GET http://0.0.0.0:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.003s
+2025-01-30 21:27:14 | INFO | Incoming request: GET http://0.0.0.0:8080/
+Request body: 
+2025-01-30 21:27:14 | INFO | Request completed: GET http://0.0.0.0:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.003s
+2025-01-30 21:27:14 | INFO | Incoming request: GET http://0.0.0.0:8080/
+Request body: 
+2025-01-30 21:27:14 | INFO | Request completed: GET http://0.0.0.0:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-30 21:27:14 | INFO | Incoming request: GET http://0.0.0.0:8080/
+Request body: 
+2025-01-30 21:27:14 | INFO | Request completed: GET http://0.0.0.0:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-31 00:26:44 | INFO | Incoming request: GET http://0.0.0.0:8080/favicon.ico
+Request body: 
+2025-01-31 00:26:45 | INFO | Request completed: GET http://0.0.0.0:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.281s
+2025-01-31 07:21:38 | INFO | Incoming request: GET http://localhost:8080/
+Request body: 
+2025-01-31 07:21:38 | INFO | Request completed: GET http://localhost:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.017s
+2025-01-31 07:21:39 | INFO | Incoming request: GET http://localhost:8080/favicon.ico
+Request body: 
+2025-01-31 07:21:39 | INFO | Request completed: GET http://localhost:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-31 07:21:41 | INFO | Incoming request: GET http://localhost:8080/
+Request body: 
+2025-01-31 07:21:41 | INFO | Request completed: GET http://localhost:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
+2025-01-31 09:47:03 | INFO | Incoming request: GET http://0.0.0.0:8080/favicon.ico
+Request body: 
+2025-01-31 09:47:03 | INFO | Request completed: GET http://0.0.0.0:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.004s
